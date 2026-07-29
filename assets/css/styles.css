@@ -181,3 +181,42 @@ body.lightbox-open{overflow:hidden}
 @media (prefers-reduced-motion:reduce){
   .gallery-card,.gallery-action span{transition:none}
 }
+
+/* v19 gallery refinements: keep full diagrams and caption visible within viewport */
+.gallery-lightbox{padding:16px}
+.gallery-lightbox-panel{
+  width:min(1120px,calc(100vw - 32px));
+  max-height:calc(100vh - 32px);
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+}
+.gallery-lightbox-header{flex:0 0 auto;padding:12px 18px}
+.gallery-lightbox-figure{display:flex;flex:1 1 auto;min-height:0;flex-direction:column}
+.gallery-lightbox-stage{
+  flex:1 1 auto;
+  min-height:0;
+  padding:18px 24px;
+  overflow:auto;
+}
+.gallery-lightbox-stage img{
+  width:min(100%,960px);
+  max-width:960px;
+  max-height:calc(100vh - 300px);
+}
+.gallery-lightbox-caption{
+  flex:0 0 auto;
+  padding:18px 24px 20px;
+  gap:20px;
+  align-items:center;
+}
+.gallery-lightbox-caption .section-label{margin-bottom:4px}
+.gallery-lightbox-caption h2{font-size:clamp(1.35rem,2.4vw,1.85rem);margin-bottom:5px}
+.gallery-lightbox-caption p{font-size:.9rem;line-height:1.45;margin:0}
+@media (max-width:760px){
+  .gallery-lightbox{padding:8px}
+  .gallery-lightbox-panel{width:calc(100vw - 16px);max-height:calc(100vh - 16px)}
+  .gallery-lightbox-stage{padding:12px}
+  .gallery-lightbox-stage img{max-height:52vh}
+  .gallery-lightbox-caption{padding:16px;gap:14px}
+}
