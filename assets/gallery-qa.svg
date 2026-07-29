@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img">
+<rect width="960" height="560" fill="#F3F4EF"/>
+<style>
+.label{font:700 15px Arial,sans-serif;fill:#204F60;letter-spacing:1.4px}
+.h{font:700 25px Arial,sans-serif;fill:#223047}
+.t{font:700 20px Arial,sans-serif;fill:#223047}
+.s{font:16px Arial,sans-serif;fill:#56657A}
+.xs{font:14px Arial,sans-serif;fill:#56657A}
+.wt{font:700 18px Arial,sans-serif;fill:#fff}
+.ws{font:14px Arial,sans-serif;fill:#fff}
+.panel{fill:#FCFCF9;stroke:#C8CEC0;stroke-width:2}
+.dash{fill:none;stroke:#C8CEC0;stroke-width:2;stroke-dasharray:8 8}
+.flow{fill:none;stroke:#A94437;stroke-width:3}
+.navy{fill:#1D2D4F}
+.teal{fill:#2E6E86}
+</style>
+
+<text x="48" y="48" class="label">CONTENT QA FRAMEWORK</text>
+<g>
+  <rect x="45" y="102" width="195" height="112" rx="6" class="navy"/>
+  <text x="142.5" y="140" class="wt" text-anchor="middle">Product truth</text>
+  <text x="142.5" y="172" class="ws" text-anchor="middle">Verified sources</text>
+  <rect x="270" y="102" width="195" height="112" rx="6" class="teal"/>
+  <text x="367.5" y="140" class="wt" text-anchor="middle">Clarity</text>
+  <text x="367.5" y="168" class="ws" text-anchor="middle">Useful and scannable</text>
+  <rect x="495" y="102" width="195" height="112" rx="6" class="navy"/>
+  <text x="592.5" y="140" class="wt" text-anchor="middle">Voice</text>
+  <text x="592.5" y="166" class="ws" text-anchor="middle">Elevated tone</text>
+  <text x="592.5" y="189" class="ws" text-anchor="middle">No unsupported claims</text>
+  <rect x="720" y="102" width="195" height="112" rx="6" class="teal"/>
+  <text x="817.5" y="140" class="wt" text-anchor="middle">Accessibility</text>
+  <text x="817.5" y="166" class="ws" text-anchor="middle">Alt text</text>
+  <text x="817.5" y="189" class="ws" text-anchor="middle">Clear hierarchy</text>
+</g>
+<path d="M142.5 214v76M367.5 214v76M592.5 214v76M817.5 214v76" class="dash"/>
+<rect x="150" y="294" width="660" height="82" rx="6" class="panel"/>
+<text x="480" y="344" class="t" text-anchor="middle">Human editorial review</text>
+<path d="M480 376v42" class="flow"/>
+<rect x="300" y="422" width="360" height="72" rx="6" class="navy"/>
+<text x="480" y="466" class="wt" text-anchor="middle">Final approval</text>
+
+</svg>

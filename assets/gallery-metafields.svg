@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img">
+<rect width="960" height="560" fill="#F3F4EF"/>
+<style>
+.label{font:700 15px Arial,sans-serif;fill:#204F60;letter-spacing:1.4px}
+.h{font:700 25px Arial,sans-serif;fill:#223047}
+.t{font:700 20px Arial,sans-serif;fill:#223047}
+.s{font:16px Arial,sans-serif;fill:#56657A}
+.xs{font:14px Arial,sans-serif;fill:#56657A}
+.wt{font:700 18px Arial,sans-serif;fill:#fff}
+.ws{font:14px Arial,sans-serif;fill:#fff}
+.panel{fill:#FCFCF9;stroke:#C8CEC0;stroke-width:2}
+.dash{fill:none;stroke:#C8CEC0;stroke-width:2;stroke-dasharray:8 8}
+.flow{fill:none;stroke:#A94437;stroke-width:3}
+.navy{fill:#1D2D4F}
+.teal{fill:#2E6E86}
+</style>
+
+<text x="48" y="48" class="label">METAFIELD ARCHITECTURE</text>
+<rect x="334" y="78" width="292" height="84" rx="6" class="navy"/>
+<text x="480" y="111" class="wt" text-anchor="middle">Governed product record</text>
+<text x="480" y="138" class="ws" text-anchor="middle">Verified facts + controlled values</text>
+<path d="M480 162v48M140 210H820" class="flow"/>
+<g>
+  <rect x="45" y="224" width="190" height="88" rx="6" class="panel"/>
+  <text x="140" y="259" class="t" text-anchor="middle">PDP</text>
+  <text x="140" y="286" class="s" text-anchor="middle">Specifications</text>
+  <rect x="270" y="224" width="190" height="88" rx="6" class="panel"/>
+  <text x="365" y="259" class="t" text-anchor="middle">Collections</text>
+  <text x="365" y="286" class="s" text-anchor="middle">Rules + filters</text>
+  <rect x="495" y="224" width="190" height="88" rx="6" class="panel"/>
+  <text x="590" y="259" class="t" text-anchor="middle">Search</text>
+  <text x="590" y="286" class="s" text-anchor="middle">Terms + SEO</text>
+  <rect x="720" y="224" width="190" height="88" rx="6" class="panel"/>
+  <text x="815" y="259" class="t" text-anchor="middle">Feeds</text>
+  <text x="815" y="286" class="s" text-anchor="middle">Product data</text>
+</g>
+<path d="M140 312v72M365 312v72M590 312v72M815 312v72" class="dash"/>
+<rect x="95" y="388" width="770" height="112" rx="6" class="panel"/>
+<text x="480" y="430" class="t" text-anchor="middle">One verified fact can support multiple outputs</text>
+<text x="480" y="464" class="s" text-anchor="middle">Capture once · reuse consistently · update without rewriting every channel</text>
+
+</svg>
