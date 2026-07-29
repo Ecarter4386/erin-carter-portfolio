@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420"><rect width="720" height="420" fill="#F3F4EF"/><style>.t{font:700 18px Arial;fill:#223047}.s{font:14px Arial;fill:#56657A}.l{font:700 12px Arial;fill:#204F60;letter-spacing:1px}.b{fill:#FCFCF9;stroke:#C8CEC0;stroke-width:2}.a{stroke:#A94437;stroke-width:3;fill:none}.teal{fill:#2E6E86}.navy{fill:#1D2D4F}.white{fill:#fff}.dash{stroke:#C8CEC0;stroke-width:2;stroke-dasharray:7 7;fill:none}</style><text x="32" y="36" class="l">METAFIELD ARCHITECTURE</text>
+<rect x="260" y="70" width="200" height="58" rx="4" class="navy"/><text x="300" y="105" class="white" style="font:700 18px Arial">GOVERNED RECORD</text>
+<path d="M360 128v48M360 176H110M360 176H610" class="a"/>
+<g><rect x="42" y="188" width="140" height="62" rx="4" class="b"/><text x="84" y="218" class="t">PDP</text><text x="63" y="238" class="s">Specifications</text></g>
+<g><rect x="210" y="188" width="140" height="62" rx="4" class="b"/><text x="236" y="218" class="t">Collections</text><text x="232" y="238" class="s">Rules + filters</text></g>
+<g><rect x="378" y="188" width="140" height="62" rx="4" class="b"/><text x="420" y="218" class="t">Search</text><text x="405" y="238" class="s">Terms + SEO</text></g>
+<g><rect x="546" y="188" width="140" height="62" rx="4" class="b"/><text x="590" y="218" class="t">Feeds</text><text x="571" y="238" class="s">Product data</text></g>
+<path d="M112 250v48M280 250v48M448 250v48M616 250v48" class="dash"/>
+<rect x="42" y="302" width="644" height="72" rx="4" class="b"/><text x="78" y="333" class="t">One verified fact can support multiple outputs</text><text x="78" y="357" class="s">Capture once · reuse consistently · update without rewriting every channel</text></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420"><rect width="720" height="420" fill="#F3F4EF"/><style>.t{font:700 18px Arial;fill:#223047}.s{font:14px Arial;fill:#56657A}.l{font:700 12px Arial;fill:#204F60;letter-spacing:1px}.b{fill:#FCFCF9;stroke:#C8CEC0;stroke-width:2}.a{stroke:#A94437;stroke-width:3;fill:none}.teal{fill:#2E6E86}.navy{fill:#1D2D4F}.white{fill:#fff}.dash{stroke:#C8CEC0;stroke-width:2;stroke-dasharray:7 7;fill:none}</style><text x="32" y="36" class="l">CONTENT QA FRAMEWORK</text>
+<rect x="32" y="64" width="656" height="310" rx="4" class="b"/>
+<g><rect x="55" y="96" width="128" height="70" rx="4" class="navy"/><text x="80" y="127" class="white" style="font:700 17px Arial">Product truth</text><text x="74" y="149" class="white" style="font:13px Arial">Verified sources</text></g>
+<g><rect x="198" y="96" width="128" height="70" rx="4" class="teal"/><text x="231" y="127" class="white" style="font:700 17px Arial">Clarity</text><text x="215" y="149" class="white" style="font:13px Arial">Useful + scannable</text></g>
+<g><rect x="341" y="96" width="128" height="70" rx="4" class="navy"/><text x="370" y="127" class="white" style="font:700 17px Arial">Voice</text><text x="359" y="149" class="white" style="font:13px Arial">Elevated, not inflated</text></g>
+<g><rect x="484" y="96" width="128" height="70" rx="4" class="teal"/><text x="504" y="127" class="white" style="font:700 17px Arial">Accessibility</text><text x="506" y="149" class="white" style="font:13px Arial">Alt text + hierarchy</text></g>
+<path d="M119 166v50M262 166v50M405 166v50M548 166v50" class="dash"/>
+<rect x="85" y="220" width="550" height="54" rx="4" class="b"/><text x="232" y="253" class="t">HUMAN EDITORIAL REVIEW</text>
+<path d="M360 274v35" class="a"/><rect x="220" y="313" width="280" height="42" rx="4" class="navy"/><text x="280" y="340" class="white" style="font:700 17px Arial">FINAL APPROVAL</text></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420"><rect width="720" height="420" fill="#F3F4EF"/><style>.t{font:700 18px Arial;fill:#223047}.s{font:14px Arial;fill:#56657A}.l{font:700 12px Arial;fill:#204F60;letter-spacing:1px}.b{fill:#FCFCF9;stroke:#C8CEC0;stroke-width:2}.a{stroke:#A94437;stroke-width:3;fill:none}.teal{fill:#2E6E86}.navy{fill:#1D2D4F}.white{fill:#fff}.dash{stroke:#C8CEC0;stroke-width:2;stroke-dasharray:7 7;fill:none}</style><text x="32" y="36" class="l">ANALYTICS DIAGNOSIS</text>
+<rect x="32" y="64" width="656" height="310" rx="4" class="b"/>
+<text x="54" y="99" class="t">Separate the evidence layers</text>
+<g><rect x="55" y="128" width="135" height="58" rx="4" class="navy"/><text x="83" y="162" class="white" style="font:700 17px Arial">Acquisition</text></g><path d="M194 157h40" class="a"/>
+<g><rect x="238" y="128" width="135" height="58" rx="4" class="teal"/><text x="266" y="162" class="white" style="font:700 17px Arial">Experience</text></g><path d="M377 157h40" class="a"/>
+<g><rect x="421" y="128" width="135" height="58" rx="4" class="navy"/><text x="448" y="162" class="white" style="font:700 17px Arial">Conversion</text></g><path d="M560 157h40" class="a"/>
+<g><rect x="604" y="128" width="62" height="58" rx="4" class="teal"/><text x="617" y="151" class="white" style="font:700 13px Arial">Revenue</text><text x="619" y="169" class="white" style="font:700 13px Arial">quality</text></g>
+<rect x="55" y="224" width="294" height="108" rx="4" class="dash"/><text x="78" y="254" class="t">Observed evidence</text><text x="78" y="282" class="s">Traffic · browser · device</text><text x="78" y="308" class="s">Core Web Vitals · conversion</text>
+<rect x="371" y="224" width="294" height="108" rx="4" class="dash"/><text x="394" y="254" class="t">Modeled scenario</text><text x="394" y="282" class="s">Restore historical traffic</text><text x="394" y="308" class="s">Hold conversion constant</text></svg>
