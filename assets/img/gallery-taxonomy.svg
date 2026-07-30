@@ -1,5 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420"><rect width="720" height="420" fill="#F3F4EF"/><style>.t{font:700 18px Arial;fill:#223047}.s{font:14px Arial;fill:#56657A}.l{font:700 12px Arial;fill:#204F60;letter-spacing:1px}.b{fill:#FCFCF9;stroke:#C8CEC0;stroke-width:2}.a{stroke:#A94437;stroke-width:3;fill:none}.teal{fill:#2E6E86}.navy{fill:#1D2D4F}.white{fill:#fff}.dash{stroke:#C8CEC0;stroke-width:2;stroke-dasharray:7 7;fill:none}</style><text x="32" y="36" class="l">PRODUCT TAXONOMY</text>
-<rect x="32" y="64" width="656" height="310" rx="4" class="b"/>
-<text x="55" y="96" class="t">Controlled values</text><text x="430" y="96" class="t">Guided text</text>
-<g class="s"><rect x="55" y="120" width="148" height="42" rx="20" class="b"/><text x="103" y="146">Category</text><rect x="218" y="120" width="148" height="42" rx="20" class="b"/><text x="268" y="146">Fit</text><rect x="55" y="178" width="148" height="42" rx="20" class="b"/><text x="98" y="204">Silhouette</text><rect x="218" y="178" width="148" height="42" rx="20" class="b"/><text x="250" y="204">Color family</text><rect x="55" y="236" width="148" height="42" rx="20" class="b"/><text x="99" y="262">Occasion</text><rect x="218" y="236" width="148" height="42" rx="20" class="b"/><text x="260" y="262">Length</text></g>
-<rect x="408" y="120" width="246" height="72" rx="4" class="dash"/><text x="430" y="150" class="t">Description</text><text x="430" y="174" class="s">Editorial interpretation</text><rect x="408" y="208" width="246" height="72" rx="4" class="dash"/><text x="430" y="238" class="t">Fit guidance</text><text x="430" y="262" class="s">Customer-facing nuance</text><text x="55" y="335" class="s">Structure what must stay consistent. Preserve flexibility where human judgment adds value.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img">
+<rect width="960" height="560" fill="#F3F4EF"/>
+<style>
+.label{font:700 15px Arial,sans-serif;fill:#204F60;letter-spacing:1.4px}
+.h{font:700 25px Arial,sans-serif;fill:#223047}
+.t{font:700 20px Arial,sans-serif;fill:#223047}
+.s{font:16px Arial,sans-serif;fill:#56657A}
+.xs{font:14px Arial,sans-serif;fill:#56657A}
+.wt{font:700 18px Arial,sans-serif;fill:#fff}
+.ws{font:14px Arial,sans-serif;fill:#fff}
+.panel{fill:#FCFCF9;stroke:#C8CEC0;stroke-width:2}
+.dash{fill:none;stroke:#C8CEC0;stroke-width:2;stroke-dasharray:8 8}
+.flow{fill:none;stroke:#A94437;stroke-width:3}
+.navy{fill:#1D2D4F}
+.teal{fill:#2E6E86}
+</style>
+
+<text x="48" y="48" class="label">PRODUCT TAXONOMY</text>
+<rect x="48" y="86" width="864" height="414" rx="6" class="panel"/>
+<text x="82" y="128" class="t">Controlled values</text>
+<text x="562" y="128" class="t">Guided text</text>
+<g>
+  <rect x="82" y="154" width="180" height="46" rx="23" class="panel"/><text x="172" y="183" class="s" text-anchor="middle">Category</text>
+  <rect x="282" y="154" width="180" height="46" rx="23" class="panel"/><text x="372" y="183" class="s" text-anchor="middle">Fit</text>
+  <rect x="82" y="218" width="180" height="46" rx="23" class="panel"/><text x="172" y="247" class="s" text-anchor="middle">Silhouette</text>
+  <rect x="282" y="218" width="180" height="46" rx="23" class="panel"/><text x="372" y="247" class="s" text-anchor="middle">Color family</text>
+  <rect x="82" y="282" width="180" height="46" rx="23" class="panel"/><text x="172" y="311" class="s" text-anchor="middle">Occasion</text>
+  <rect x="282" y="282" width="180" height="46" rx="23" class="panel"/><text x="372" y="311" class="s" text-anchor="middle">Length</text>
+</g>
+<rect x="540" y="154" width="330" height="92" rx="6" class="dash"/>
+<text x="566" y="190" class="t">Description</text>
+<text x="566" y="216" class="s">Editorial interpretation</text><text x="566" y="240" class="s">anchored to verified facts</text>
+<rect x="540" y="266" width="330" height="92" rx="6" class="dash"/>
+<text x="566" y="302" class="t">Fit guidance</text>
+<text x="566" y="328" class="s">Customer-facing nuance</text><text x="566" y="352" class="s">and sizing context</text>
+<rect x="82" y="406" width="788" height="58" rx="6" fill="#F3F4EF" stroke="#C8CEC0" stroke-width="2"/>
+<text x="476" y="442" class="s" text-anchor="middle">Structure what must stay consistent. Preserve flexibility where human judgment adds value.</text>
+
+</svg>
